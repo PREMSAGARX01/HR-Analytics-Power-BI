@@ -128,23 +128,6 @@ Data Modeling| Relationships between fact and dimension tables
 - HR Data Analysis
 - Data Visualization & Storytelling
 
-📁 Repository Structure
-
-hr-analytics-power-bi/
-│
-├── Dataset/
-│
-├── Dashboard/
-│   └── HR_Analytics.pbix
-│
-├── Screenshots/
-│   ├── Workforce_Overview.png
-│   ├── Attrition_Analysis.png
-│   ├── Compensation_Analytics.png
-│   ├── Performance_Analytics.png
-│   └── Executive_Summary.png
-│
-└── README.md
 
 🚀 Project Outcome
 
